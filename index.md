@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: TitleTitle
-description: An Isomer site of the Singapore Government
+title: Hui
+description: Hui
 image: /images/xss.svg
 permalink: /
 notification: Here's a notification bar you can use!

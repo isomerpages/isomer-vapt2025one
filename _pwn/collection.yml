@@ -2,4 +2,5 @@ collections:
   pwn:
     output: true
     order:
+      - abcd.md
       - faq.md

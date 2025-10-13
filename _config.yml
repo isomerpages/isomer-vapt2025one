@@ -1,6 +1,6 @@
-title: Title
-url: ""
-favicon: /images/favicon-isomer.ico
+title: TitleTitle
+url: https://www.google.at
+favicon: /images/xss.svg
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -53,3 +53,7 @@ staging: https://staging-lite.d2uw1zs2fnxfzm.amplifyapp.com
 prod: https://master.d1emn1ssveg6ul.amplifyapp.com
 facebook-pixel: ""
 resources_name: blub
+shareicon: /images/xss.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""

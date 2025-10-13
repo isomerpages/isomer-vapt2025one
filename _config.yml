@@ -55,5 +55,5 @@ facebook-pixel: ""
 resources_name: blub
 shareicon: /images/xss.svg
 is_government: false
-google_analytics_ga4: ""
-linkedin-insights: ""
+google_analytics_ga4: AAAAAAAAAAAAAAAAAAAAAAAAAAAAa
+linkedin-insights: AAAAAAAAAAAAAAAAAAAAAAAAAAAAa

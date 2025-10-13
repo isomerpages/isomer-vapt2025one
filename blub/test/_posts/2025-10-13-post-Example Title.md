@@ -5,5 +5,6 @@ date: 2025-10-13
 layout: post
 description: huhu
 image: ""
-variant: tiptap
+variant: markdown
 ---
+huhu

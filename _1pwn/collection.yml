@@ -1,5 +1,0 @@
-collections:
-  1pwn:
-    output: true
-    order:
-      - privacy.md

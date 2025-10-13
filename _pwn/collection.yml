@@ -1,0 +1,4 @@
+collections:
+  pwn:
+    output: true
+    order: []

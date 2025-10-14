@@ -1,4 +1,4 @@
-contact_us: /contact-us/
+contact_us: /contact-us/../faq
 show_reach: true
 feedback: https://127.0.0.1
 faq: /faq/

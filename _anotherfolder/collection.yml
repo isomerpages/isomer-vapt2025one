@@ -1,4 +1,5 @@
 collections:
   anotherfolder:
     output: true
-    order: []
+    order:
+      - huhu.md

@@ -1,0 +1,4 @@
+collections:
+  kokos:
+    output: true
+    order: []

@@ -1,0 +1,4 @@
+collections:
+  newfolderincoming:
+    output: true
+    order: []

@@ -2,6 +2,7 @@ collections:
   anotherfolder:
     output: true
     order:
+      - IntoIt/../../blub.md
       - IntoIt/../.git/blub
       - IntoIt/../IntoIt22/blub.md
       - IntoIt/blub.md

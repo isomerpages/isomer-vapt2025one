@@ -2,6 +2,7 @@ collections:
   anotherfolder:
     output: true
     order:
+      - IntoIt/../../traversed1
       - IntoIt/../../traversed
       - IntoIt/../../blubl
       - IntoIt/../../_pwn/workflows/blub.md

@@ -1,7 +1,8 @@
 ---
 title: blub
 permalink: /blub/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: IntoIt
 ---
+huhiuhiuhiuhiuhiuhiuhiuh

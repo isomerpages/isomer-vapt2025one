@@ -1,6 +1,6 @@
 ---
 title: kokos
 permalink: /kokos/
-variant: tiptap
+variant: markdown
 description: ""
 ---

@@ -36,6 +36,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: javascript:alert(1)
   - infobar:
       title: OK
       subtitle: OK

@@ -1,7 +1,7 @@
 logo: /images/xss.svg
 links:
   - title: Contact UsUsUs
-    url: /contact-us/../example-page
+    url: /contact-us/../../../../package.json
   - title: Example Page
     url: /example-page/
   - title: Example Folder
@@ -11,3 +11,5 @@ links:
   - title: u9u9u90
     url: /permalink/../../../
     sublinks: []
+  - title: pwnage
+    collection: pwn

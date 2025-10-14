@@ -1,4 +1,5 @@
 collections:
   newfolderincoming:
     output: true
-    order: []
+    order:
+      - lolz.md

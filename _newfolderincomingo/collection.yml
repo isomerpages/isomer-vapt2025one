@@ -1,5 +1,5 @@
 collections:
-  newfolderincoming:
+  newfolderincomingo:
     output: true
     order:
       - lolz.md

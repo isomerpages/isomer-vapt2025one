@@ -1,6 +1,7 @@
 ---
 title: huhu
 permalink: /huhu/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+huhu

@@ -8,3 +8,6 @@ links:
     collection: example-folder
   - title: javascript:alert(2)
     resource_room: true
+  - title: u9u9u90
+    url: /permalink/../../../
+    sublinks: []

@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Hui
+title: Huii
 description: "{{7*7}}"
 image: /images/xss.svg
 permalink: /

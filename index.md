@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Hui
-description: Hui\n\ncan we escape?
+description: Hui  can we escape?
 image: /images/xss.svg
 permalink: /
 notification: Here's a notification bar you can use!

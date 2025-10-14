@@ -2,5 +2,6 @@ collections:
   anotherfolder:
     output: true
     order:
+      - IntoIt/blub.md
       - IntoIt/.keep
       - huhu.md

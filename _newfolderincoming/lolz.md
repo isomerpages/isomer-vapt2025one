@@ -1,6 +1,6 @@
 ---
 title: lolz
 permalink: /lolz/
-variant: tiptap
+variant: markdown
 description: ""
 ---

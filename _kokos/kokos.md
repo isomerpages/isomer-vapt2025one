@@ -1,6 +1,7 @@
 ---
 title: kokos
-permalink: /kokos/
+permalink: /kokos/../newincomingo/
 variant: markdown
 description: ""
 ---
+koko

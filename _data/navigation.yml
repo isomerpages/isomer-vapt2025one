@@ -13,3 +13,5 @@ links:
     sublinks: []
   - title: pwnage
     collection: pwn
+  - title: New folder
+    collection: newfolderincoming

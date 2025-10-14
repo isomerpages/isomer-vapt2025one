@@ -1,7 +1,7 @@
 logo: /images/xss.svg
 links:
   - title: Contact UsUsUs
-    url: /contact-us/../contact-us
+    url: /contact-us/../example-page
   - title: Example Page
     url: /example-page/
   - title: Example Folder

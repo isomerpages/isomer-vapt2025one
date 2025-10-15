@@ -1,4 +1,5 @@
 collections:
   hola:
     output: true
-    order: []
+    order:
+      - Hola2/.keep

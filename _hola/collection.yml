@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Hola1/.keep
-      - hoho.md
       - Hola2/.keep

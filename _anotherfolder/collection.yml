@@ -1,5 +1,5 @@
 collections:
-  test-traverse-it:
+  anotherfolder:
     output: true
     order:
       - IntoIt/../../traversed2

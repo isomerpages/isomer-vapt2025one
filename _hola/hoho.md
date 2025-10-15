@@ -1,6 +1,6 @@
 ---
 title: hoho
 permalink: /hoho/
-variant: tiptap
+variant: markdown
 description: ""
 ---

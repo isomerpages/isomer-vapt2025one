@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d2uw1zs2fnxfzm.amplifyapp.com
 prod: https://master.d1emn1ssveg6ul.amplifyapp.com
 facebook-pixel: ""
-resources_name: blub
+resources_name: blub7
 shareicon: /images/xss.svg
 is_government: false
 google_analytics_ga4: AAAAAAAAAAAAAAAAAAAAAAAAAAAAa

@@ -2,4 +2,5 @@ collections:
   hola:
     output: true
     order:
+      - hoho.md
       - Hola2/.keep

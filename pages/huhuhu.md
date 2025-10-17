@@ -1,6 +1,6 @@
 ---
 title: huhuhu
 permalink: /huhuhu/
-variant: tiptap
+variant: markdown
 description: ""
 ---

@@ -1,15 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/xss.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Contact UsUsUs
+    url: /contact-us/../contact-us
   - title: Example Page
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: javascript:alert(2)
+    resource_room: true
+  - title: u9u9u90
+    url: /permalink/../../../
+    sublinks: []
+  - title: pwnage
+    collection: pwn
+  - title: Newfolderincomingo
+    collection: newfolderincomingo
+  - title: New folder
+    collection: kokos

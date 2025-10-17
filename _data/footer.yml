@@ -1,10 +1,12 @@
-contact_us: /contact-us/
+contact_us: /contact-us/../faq
 show_reach: true
-feedback: 
+feedback: javascript:alert()
 faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  twitter: javascript:alert()
+  youtube: javascript:alert()
+  instagram: javascript:alert()
+  linkedin: javascript:alert()
+  facebook: javascript:alert()
+  telegram: javascript:alert()
+  tiktok: javascript:alert()

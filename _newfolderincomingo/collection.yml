@@ -1,0 +1,5 @@
+collections:
+  newfolderincomingo:
+    output: true
+    order:
+      - lolz.md

@@ -1,0 +1,7 @@
+collections:
+  hola:
+    output: true
+    order:
+      - Hola1/hoho.md
+      - Hola1/.keep
+      - Hola2/.keep

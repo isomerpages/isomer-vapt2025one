@@ -1,0 +1,5 @@
+collections:
+  kokos:
+    output: true
+    order:
+      - kokos.md

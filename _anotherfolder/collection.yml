@@ -2,6 +2,7 @@ collections:
   anotherfolder:
     output: true
     order:
+      - IntoIt/../../isomer-vapt2025one/traversed555
       - IntoIt/../../isomer-vapt2025one/traversed2
       - IntoIt/../../traversed2
       - IntoIt/../../traversed1
